@@ -24,7 +24,7 @@ body {
 
 #pokemon-logo {
   width: 300px;
-  margin-left: 330px;
+  margin-left: 330px
 }
 
 input:focus {
@@ -37,8 +37,25 @@ input:focus {
   margin: auto;
 }
 
+.pokemon-frame {
+  width: 230px;
+  margin: 10px;
+  background: #fecd2f;
+  color: #2d72fc;
+}
+
+.image-container {
+  width: 239px;
+  margin: auto;
+}
+
 .center-text {
   text-align: center;
+}
+
+.pokemon-image {
+  width: 96px;
+  margin: auto
 }
 
 .flip-image {
